@@ -9,8 +9,6 @@
 <!--       RAMSHANKAR PATEL - PROFILE         -->
 <!-- ======================================= -->
 
-<h1 align="center">Hi , I'm Ramshankar kurmi</h1>
-
 <h3 align="center">
   Full Stack Developer | B.Tech CSE Student | Tech Enthusiast
 </h3>
