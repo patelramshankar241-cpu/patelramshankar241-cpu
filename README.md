@@ -46,12 +46,23 @@
 <!-- Add your best public projects here -->
 
 | Project | Description | Tech Stack |
-|---|---|---|
-| Project 1 | Add your project description | Add technologies |
-| Project 2 | Add your project description | Add technologies |
-| Project 3 | Add your project description | Add technologies |
 
----
+
+###  Featured Project
+
+####  [RGPV Study Hub – Application](https://github.com/RGPV-Study-Hub/application)
+
+A web application project focused on an academic learning platform.
+
+**Tech Stack:**
+- React
+- JavaScript
+- Vite
+- Capacitor
+- Supabase
+
+🔗 [Explore Repository](https://github.com/RGPV-Study-Hub/application)
+
 
 ### GitHub Statistics
 
