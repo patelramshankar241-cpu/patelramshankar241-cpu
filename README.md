@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="./github-banner.png"
+       width="100%"
+       alt="Ramshankar Kurmi Developer Banner">
+</p>
 
+---
 <!-- ======================================= -->
 <!--       RAMSHANKAR PATEL - PROFILE         -->
 <!-- ======================================= -->
