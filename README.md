@@ -3,7 +3,7 @@
 <!--       RAMSHANKAR PATEL - PROFILE         -->
 <!-- ======================================= -->
 
-<h1 align="center">Hi , I'm Ramshankar Patel</h1>
+<h1 align="center">Hi , I'm Ramshankar kurmi</h1>
 
 <h3 align="center">
   Full Stack Developer | B.Tech CSE Student | Tech Enthusiast
